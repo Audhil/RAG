@@ -12,9 +12,16 @@ __pycache__/
 dist/
 build/
 
-# Jupyter Notebook
+# Jupyter Notebook & IPython
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+.jupyter/
+.ipython/
+*.log
+.jupyterlab/
+.jupyterlab-settings/
+jupyter_server_config.json
+.ipython_checkpoints/
 
 # IDE
 .idea/
